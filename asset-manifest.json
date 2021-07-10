@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wmassignment/static/css/main.1ac99f03.chunk.css",
+    "main.js": "/wmassignment/static/js/main.66956cb7.chunk.js",
+    "main.js.map": "/wmassignment/static/js/main.66956cb7.chunk.js.map",
+    "runtime-main.js": "/wmassignment/static/js/runtime-main.3a61b157.js",
+    "runtime-main.js.map": "/wmassignment/static/js/runtime-main.3a61b157.js.map",
+    "static/js/2.0db46ef3.chunk.js": "/wmassignment/static/js/2.0db46ef3.chunk.js",
+    "static/js/2.0db46ef3.chunk.js.map": "/wmassignment/static/js/2.0db46ef3.chunk.js.map",
+    "static/js/3.74c41796.chunk.js": "/wmassignment/static/js/3.74c41796.chunk.js",
+    "static/js/3.74c41796.chunk.js.map": "/wmassignment/static/js/3.74c41796.chunk.js.map",
+    "static/js/4.4ada84a8.chunk.js": "/wmassignment/static/js/4.4ada84a8.chunk.js",
+    "static/js/4.4ada84a8.chunk.js.map": "/wmassignment/static/js/4.4ada84a8.chunk.js.map",
+    "static/js/5.f3677513.chunk.js": "/wmassignment/static/js/5.f3677513.chunk.js",
+    "static/js/5.f3677513.chunk.js.map": "/wmassignment/static/js/5.f3677513.chunk.js.map",
+    "index.html": "/wmassignment/index.html",
+    "static/css/main.1ac99f03.chunk.css.map": "/wmassignment/static/css/main.1ac99f03.chunk.css.map",
+    "static/js/2.0db46ef3.chunk.js.LICENSE.txt": "/wmassignment/static/js/2.0db46ef3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a61b157.js",
+    "static/js/2.0db46ef3.chunk.js",
+    "static/css/main.1ac99f03.chunk.css",
+    "static/js/main.66956cb7.chunk.js"
+  ]
+}
